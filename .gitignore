@@ -1,0 +1,4 @@
+controllers/*.class
+models/*.class
+utils/*.class
+views/*.class
